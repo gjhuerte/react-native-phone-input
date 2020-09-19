@@ -1,4 +1,4 @@
-# React Native Phone Input
+# React Native Phone Input (Forked from https://github.com/thegamenicorus)
 
 Phone input box for React Native
 
